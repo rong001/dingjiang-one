@@ -1,0 +1,23 @@
+# Host-specific metadata is not part of the public application.
+.openai/
+.vercel/
+.netlify/
+
+# Local credentials and configuration.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Local development output. Keep dist/ tracked for static hosting.
+node_modules/
+.cache/
+coverage/
+playwright-report/
+test-results/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

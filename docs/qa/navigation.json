@@ -1,0 +1,98 @@
+[
+  {
+    "length": 663,
+    "route": "#products",
+    "title": "产品与物料"
+  },
+  {
+    "length": 670,
+    "route": "#quality",
+    "title": "质量管理"
+  },
+  {
+    "length": 714,
+    "route": "#finance",
+    "title": "结算对账"
+  },
+  {
+    "length": 538,
+    "route": "#journals",
+    "title": "会计凭证"
+  },
+  {
+    "length": 2183,
+    "route": "#profit",
+    "title": "产品损益"
+  },
+  {
+    "length": 1438,
+    "route": "#receivables",
+    "title": "应收与结算"
+  },
+  {
+    "length": 606,
+    "route": "#data",
+    "title": "数据质量"
+  },
+  {
+    "length": 463,
+    "route": "#lineage",
+    "title": "指标血缘"
+  },
+  {
+    "length": 386,
+    "route": "#dictionary",
+    "title": "指标字典"
+  },
+  {
+    "length": 536,
+    "route": "#controls",
+    "title": "内控与证据"
+  },
+  {
+    "length": 2826,
+    "route": "#audit",
+    "title": "操作审计"
+  },
+  {
+    "length": 380,
+    "route": "#access",
+    "title": "角色与权限"
+  },
+  {
+    "length": 822,
+    "overflow": false,
+    "route": "#infrastructure",
+    "title": "全球基础设施"
+  },
+  {
+    "length": 486,
+    "overflow": false,
+    "route": "#integrations",
+    "title": "接口集成"
+  },
+  {
+    "length": 620,
+    "overflow": false,
+    "route": "#projects",
+    "title": "项目与预算"
+  },
+  {
+    "length": 484,
+    "overflow": false,
+    "route": "#assets",
+    "title": "IT 资产"
+  },
+  {
+    "length": 530,
+    "overflow": false,
+    "route": "#suppliers",
+    "title": "供应商管理"
+  },
+  {
+    "length": 531,
+    "overflow": false,
+    "route": "#strategy",
+    "title": "建设蓝图"
+  }
+]
