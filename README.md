@@ -4,7 +4,7 @@
 
 ## 使用
 
-从 GitHub Pages 发布地址进入，或在本地用任意静态 HTTP 服务托管 `dist/`。例如已安装 Python 时，在仓库目录运行：
+直接打开 [鼎匠 ONE 在线工作空间](https://rong001.github.io/dingjiang-one/)，或在本地用任意静态 HTTP 服务托管 `dist/`。例如已安装 Python 时，在仓库目录运行：
 
 ```sh
 python -m http.server 8080 --directory dist
@@ -52,7 +52,7 @@ python -m http.server 8080 --directory dist
 - [公司研究与设计依据](docs/RESEARCH.md)：公开来源、JD 对应关系和未知事项。
 - [发布前检查记录](docs/RELEASE-CHECK.md)：凭据模式扫描和资产体积检查范围。
 
-工作流文件为 `.github/workflows/pages.yml`。完成部署后的固定项目地址形式为 `https://<owner>.github.io/<repository>/`；具体 URL 以 GitHub Pages 的成功部署输出为准。
+工作流文件为 `.github/workflows/pages.yml`。固定访问地址为 [rong001.github.io/dingjiang-one](https://rong001.github.io/dingjiang-one/)，源码仓库为 [rong001/dingjiang-one](https://github.com/rong001/dingjiang-one)。推送 `main` 后自动发布。
 
 ## 技术
 

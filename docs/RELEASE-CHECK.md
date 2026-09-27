@@ -33,12 +33,13 @@
 
 ## 本次范围
 
-已准备 GitHub Pages workflow，但本次文档任务没有触发 GitHub 登录、创建仓库、推送或部署。浏览器功能验证、最终发布结果和 URL 应以负责发布的任务所完成的实际检查为准。
+以上为初次检查快照，后续修复和实际发布结果见下方最终补充检查。
 
 ## 最终补充检查
 
 - 已附带 ECHARTS-LICENSE.txt 和 ECHARTS-NOTICE.txt。
 - 业务测试 30 / 30 通过，视觉验收 passed，浏览器控制台无 error / warn。
 - GitHub 发布副本使用全新历史，仅包含 dist、docs、.github、README 与 .gitignore，不包含宿主元数据。
-- 当前发布状态：等待 GitHub 账号授权，尚未产生 GitHub Pages 地址。
+- 当前发布状态：2026-09-27 已部署至 [GitHub Pages](https://rong001.github.io/dingjiang-one/)，[首次成功发布记录](https://github.com/rong001/dingjiang-one/actions/runs/36291559038)。公开地址 HTTP 200，包含场景和完整工作空间模块。
 - 三个主题缩略图已替换为经过验收的真实浏览器截图，主题选择与实际界面一致。
+- 最终 `dist/` 共 21 个文件，3,192,993 字节（约 3.05 MiB）；许可文件已补齐。
